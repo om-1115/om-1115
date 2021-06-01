@@ -96,7 +96,7 @@
 
 <a href="https://www.linkedin.com/in/om-kumar-707762201"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkdin-%C3%95M__1115-blue"></a>
 
-<a href="https://www.instagram.com/moon_.1115/"><img alt="Instagram" src=" https://img.shields.io/github/downloads/om-1115/om-1115/total?color=white&label=Instagram&logo=Instagram&logoColor=red&style=social"></a>
+<a href="https://www.instagram.com/moon_.1115/"><img alt="Instagram" src=" https://img.shields.io/badge/Instagram-Om.__1115-blue"></a>
 
 <a href="mailto: jssom.1115@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%C3%95M__1115-red"></a>
   
